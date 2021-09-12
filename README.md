@@ -17,7 +17,7 @@ After making the updates mentioned above in regards to the Thomas High School ma
  - The passing reading percentage went from 86% to 85.7% after the changes.
  - The overall passing percentage dropped slightly after the changes from 65% to 64.9%.   
 
-![](
+![](Resources/District%20Summary%202.PNG)
 
 ## Summary
 Upon review of the above mentioned results once the reading and math scores have been replaced, only the average math scores, passing math percentage, passing reading percentage and overall passing percentage were negatively impacted. This said, the adjusmtnents made do not heavily impact our initial results. 
