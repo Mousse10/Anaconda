@@ -4,7 +4,7 @@ Following our initial analysis of the provided data for school districts, it was
 
 After updating our code, the data was updated following the below format ommitting Thomas High School's ninth grade student scores.
 
-![](
+![](Resources/NaN%20Update.PNG)
 
 ## Results
 After making the updates mentioned above in regards to the Thomas High School math and reading scores, we ran an updated District Summary in order to see how these changes affected the overall results of the seven school district metrics. 
