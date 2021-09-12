@@ -1,5 +1,6 @@
-# School_District_Analysis
-## Overview of the school district analysis
+# School District Analysis
+
+## Overview of the School District Analysis
 Following our initial analysis of the provided data for school districts, it was then discovered that the standardized test scores for ninth grade students at Thomas High School were incorrect, updated data summaries were requested by the school board. After further discussion, it was best to only replace the ninth grade math and reading scores at Thomas High School with NaNs while keeping all other data associated with this student group intact. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. Once these math and reading scores are identified and replaced, the school board would like us to repeat the school district analysis previously performed in this module and write up a report to describe how these changes affected the overall analysis.
 
 After updating our code, the data was updated following the below format omitting Thomas High School's ninth grade student scores.
