@@ -21,4 +21,4 @@ After making the updates mentioned above in regards to the Thomas High School ma
 ![](Resources/District%20Summary%202.PNG)
 
 ## Summary
-Upon review of the above mentioned results once the reading and math scores have been replaced, only the average math scores, passing math percentage, passing reading percentage and overall passing percentage were negatively impacted. This said, the adjusmtnents made do not heavily impact our initial results. 
+Upon review of the above mentioned results once the reading and math scores have been replaced, only the average math scores, passing math percentage, passing reading percentage and overall passing percentage were negatively impacted. This said, the adjusmtnents made do not heavily impact our initial results. The school board can uphold state-testing standards based on our updated analysis.
