@@ -37,6 +37,20 @@ During our initial analysis, the Thomas High School had the second best overall 
 
 ![](Resources/School%20Summary%203.PNG)
 
+As we can see from the image above, replacing the ninth graders’ math and reading scores negatively affects Thomas High School’s performance relative to the other schools.
+
+### Math and reading scores by grade
+
+![](
+
+we see that the scores are replaced by NaNs therefore not included in the school's average scores. 
+
+### Scores by school spending
+
+### Scores by school size
+
+### Scores by school type
+
 ## Summary
 
 Upon review of the above mentioned results once the reading and math scores have been replaced, only the average math scores, passing math percentage, passing reading percentage and overall passing percentage were negatively impacted. This said, the adjusmtnents made do not heavily impact our initial results. The school board can uphold state-testing standards based on our updated analysis.
