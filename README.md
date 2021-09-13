@@ -37,7 +37,7 @@ During our initial analysis, the Thomas High School had the second best overall 
 
 ![](Resources/School%20Summary%203.PNG)
 
-As we can see from the image above, replacing the ninth graders’ math and reading scores negatively affects Thomas High School’s performance relative to the other schools.
+As we can see from the image above, replacing the ninth graders’ math and reading scores negatively affects Thomas High School’s performance relative to the other schools. The passing percentages have dropped significantly. 
 
 ### Math and reading scores by grade
 
@@ -65,4 +65,4 @@ The numbers are slightly impacted by the adjustment.
 
 ## Summary
 
-Upon review of the above mentioned results once the reading and math scores have been replaced, only the average math scores, passing math percentage, passing reading percentage and overall passing percentage were negatively impacted. This said, the adjusmtnents made do not heavily impact our initial results. The school board can uphold state-testing standards based on our updated analysis.
+Upon review of the above mentioned results once the reading and math scores have been replaced, we see that the school's passing percentages were very much impacted by this adjustment. The results of the scores by school spending can be described as a change in the updated analysis. Thomas High School lost its placement as a top five school within this District. Lastly, there are no averages for this school's 9th grade results. 
