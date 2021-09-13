@@ -35,7 +35,7 @@ During our initial analysis, the Thomas High School had the second best overall 
  - The passing reading percentage went down from 97.30% to 69.66% after the changes.
  - The overall passing percentage dropped after the changes from 90.94% to 65.07%. 
 
-![](
+![](Resources/School%20Summary%202.PNG)
 
 ## Summary
 
