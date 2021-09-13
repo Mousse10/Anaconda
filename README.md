@@ -47,11 +47,15 @@ we see that the scores are replaced by NaNs therefore not included in the school
 
 ### Scores by school spending
 
+![](Resources/Scores%20by%20school%20spending.PNG)
+
 ### Scores by school size
 
 ![](Resources/Scores%20by%20school%20size.PNG)
 
 ### Scores by school type
+
+![](
 
 ## Summary
 
