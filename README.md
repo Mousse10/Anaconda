@@ -43,19 +43,25 @@ As we can see from the image above, replacing the ninth graders’ math and read
 
 ![](Resources/Math%20Scores%20by%20Grade.PNG) ![](Resources/Reading%20Scores%20by%20Grade.PNG)
 
-we see that the scores are replaced by NaNs therefore not included in the school's average scores. 
+We see that the scores are replaced by NaNs therefore not included in the school's average scores. 
 
 ### Scores by school spending
 
 ![](Resources/Scores%20by%20school%20spending.PNG)
 
+We see that the ranges are different and a bucket is created for nan transactions. 
+
 ### Scores by school size
 
 ![](Resources/Scores%20by%20school%20size.PNG)
 
+The numbers are slightly impacted by the adjustment.
+
 ### Scores by school type
 
-![](
+![](Resources/Scores%20by%20school%20type.PNG)
+
+The numbers are slightly impacted by the adjustment.
 
 ## Summary
 
