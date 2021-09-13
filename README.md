@@ -31,11 +31,11 @@ During our initial analysis, the Thomas High School had the second best overall 
  - The total of students, school budget and per student budget remained the same. 
  - The average math score decreased from 83.41 to 83.35 after the changes.
  - The average reading score increased from 83.84 to 83.89 after the changes.
- - The passing math percentage went down from 93.27% to 93.18% after the changes.
- - The passing reading percentage went down from 97.30% to 97.01% after the changes.
- - The overall passing percentage slightly dropped after the changes from 90.94% to 90.63%. 
+ - The passing math percentage went down from 93.27% to 66.91% after the changes.
+ - The passing reading percentage went down from 97.30% to 69.66% after the changes.
+ - The overall passing percentage dropped after the changes from 90.94% to 65.07%. 
 
-![](Resources/School%20Summary%202.PNG)
+![](
 
 ## Summary
 
