@@ -41,7 +41,7 @@ As we can see from the image above, replacing the ninth graders’ math and read
 
 ### Math and reading scores by grade
 
-![](
+![](Resources/Math%20Scores%20by%20Grade.PNG) ![](
 
 we see that the scores are replaced by NaNs therefore not included in the school's average scores. 
 
@@ -49,7 +49,7 @@ we see that the scores are replaced by NaNs therefore not included in the school
 
 ### Scores by school size
 
-Resources/Scores%20by%20school%20size.PNG
+![](Resources/Scores%20by%20school%20size.PNG)
 
 ### Scores by school type
 
