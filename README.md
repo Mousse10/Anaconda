@@ -10,7 +10,9 @@ After updating our code, the initial data was updated following the below format
 
 ## Results
 
-After making the updates mentioned above in regards to the Thomas High School math and reading scores, we ran an updated District Summary in order to see how these changes affected the overall results of the seven school district metrics. 
+After making the updates mentioned above in regards to the Thomas High School math and reading scores, we ran an updated District Summary and School Summary in order to see how these changes affected the overall results of the seven school district metrics. 
+
+### District Summary
 
  - The total number of students remained the same at 39,170 total students in the data set. 
  - The total budget also remained the same at $24,649,428 after the changes. 
@@ -21,6 +23,19 @@ After making the updates mentioned above in regards to the Thomas High School ma
  - The overall passing percentage dropped slightly after the changes from 65% to 64.9%.   
 
 ![](Resources/District%20Summary%202.PNG)
+
+### School Summary
+
+During our initial analysis, the Thomas High School had the second best overall passing percentage out of all the schools. Following our adjustment of the 9th grade scores, the Thomas High School kept its spot as the second best overall passing percentage out of all the school. 
+
+ - The total of students, school budget and per student budget remained the same. 
+ - The average math score decreased from 83.41 to 83.35 after the changes.
+ - The average reading score increased from 83.84 to 83.89 after the changes.
+ - The passing math percentage went down from 93.27% to 93.18% after the changes.
+ - The passing reading percentage went down from 97.30% to 97.01% after the changes.
+ - The overall passing percentage slightly dropped after the changes from 90.94% to 90.63%. 
+
+![](
 
 ## Summary
 
